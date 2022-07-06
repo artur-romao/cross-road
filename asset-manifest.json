@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bac237a7.css",
-    "main.js": "/static/js/main.46f42049.js",
-    "static/media/Crossy_Road_Chicken.glb": "/static/media/Crossy_Road_Chicken.b3a2713975aabc289830.glb",
-    "static/media/car.glb": "/static/media/car.84efbc147d390ff4498a.glb",
-    "index.html": "/index.html",
-    "main.bac237a7.css.map": "/static/css/main.bac237a7.css.map",
-    "main.46f42049.js.map": "/static/js/main.46f42049.js.map"
+    "main.css": "/cross-road/static/css/main.bac237a7.css",
+    "main.js": "/cross-road/static/js/main.46f42049.js",
+    "static/media/Crossy_Road_Chicken.glb": "/cross-road/static/media/Crossy_Road_Chicken.b3a2713975aabc289830.glb",
+    "static/media/car.glb": "/cross-road/static/media/car.84efbc147d390ff4498a.glb",
+    "index.html": "/cross-road/index.html",
+    "main.bac237a7.css.map": "/cross-road/static/css/main.bac237a7.css.map",
+    "main.46f42049.js.map": "/cross-road/static/js/main.46f42049.js.map"
   },
   "entrypoints": [
-    "static/css/main.bac237a7.css",
-    "static/js/main.46f42049.js"
+    "cross-road/static/css/main.bac237a7.css",
+    "cross-road/static/js/main.46f42049.js"
   ]
 }
